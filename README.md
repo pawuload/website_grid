@@ -1,6 +1,7 @@
 # Diamonds, Gold & Money
 <h6>Website created during Udemy course </h6>
 
+<br>
 
 Fully responsive website design created with a Grid technology.
 
